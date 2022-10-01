@@ -1,0 +1,8 @@
+#/home/shrey/miniconda3/envs/cse8803e/lib/python3.10/site-packages/ipykernel_launcher.py --ip=127.0.0.1 --stdin=9023 --control=9021 --hb=9020 --Session.signature_scheme="hmac-sha256" --Session.key=b"ae5d2d74-b14a-4439-9f08-5b905d0d8ff4" --shell=9022 --transport="tcp" --iopub=9024 --f=/home/shrey/.local/share/jupyter/runtime/kernel-v2-7903ffjmnQCaHznu.json
+# GMT Thu Sep 22 20:22:31 2022
+# 
+2 3 4
+3 10 14
+4
+10
+14

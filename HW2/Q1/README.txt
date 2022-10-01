@@ -1,0 +1,2 @@
+Q1/metapop.py - Script provided in the question. Generates a bunch of plots dependent on the number of communities and the fraction of individuals in each status versus time.
+plots/metapop_{i}.png - Plot of the metapopulation model with no migration. 

@@ -1,0 +1,2 @@
+'Q4/Q-4.2.ipynb' IPython Notebook  for Q-4.2.ipynb
+    - Generates the Steiner Tree plots for the generated graph 'Q4/Q-4.2.1.Steiner_tree_nodes_[{infected nodes}].png' and saves the Steiner tree generated at 'Q4/Q-4.2.1.Steiner_tree_nodes_[{infected nodes}].npy' where the graph have the 'infected nodes' listed. 
